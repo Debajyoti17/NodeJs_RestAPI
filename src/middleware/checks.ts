@@ -6,7 +6,9 @@ export const checkSearchParams = (
   res: Response,
   next: NextFunction
 ) => {
-  if (!req.query.q) {
+  console.log('Inside checksearchparams................');
+  
+  if (req.query.q) {
     throw new HTTP400Error("Missing q parameter");
   } else {
     next();
