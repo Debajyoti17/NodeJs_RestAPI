@@ -1,8 +1,11 @@
 # NodeJs_RestAPI
 
 https://developer.okta.com/blog/2018/11/15/node-express-typescript
+
 https://www.typescriptlang.org/Samples/
+
 https://wanago.io/2018/12/17/typescript-express-error-handling-validation/
+
 https://www.npmjs.com/package/express-generator-typescript
 
 npm init
