@@ -8,6 +8,11 @@ https://wanago.io/2018/12/17/typescript-express-error-handling-validation/
 
 https://www.npmjs.com/package/express-generator-typescript
 
+RabitMq: 
+cmd to enable browser: rabbitmq-plugins.bat enable rabbitmq_management
+http://localhost:15672/
+default u/p: guest/guest
+
 npm init
 
 npm i g typescript
