@@ -1,5 +1,7 @@
 # NodeJs_RestAPI
 
+postgres: https://node-postgres.com/features/pooling
+
 https://developer.okta.com/blog/2018/11/15/node-express-typescript
 
 https://www.typescriptlang.org/Samples/
