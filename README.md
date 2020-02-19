@@ -1,5 +1,13 @@
 # NodeJs_RestAPI
 
+For a more comprehensive guide on Node+Express: 
+MDN’s Express web framework tutorial: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+For a deep dive on Node
+Udemy course All About Nodejs: https://www.udemy.com/all-about-nodejs/
+For a quick refresh on Javascript
+MDN’s re-introduction to JS: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+Node and express docs are also good references
+
 postgres: https://node-postgres.com/features/pooling
 
 https://developer.okta.com/blog/2018/11/15/node-express-typescript
